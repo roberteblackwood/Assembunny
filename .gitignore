@@ -39,3 +39,4 @@ Thumbs.db
 **/packages/*
 **/bin/*
 **/obj/*
+**/.vs/*
